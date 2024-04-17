@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adesh V Kedlaya</h1>
-<h3 align="center">A passionate frontend developer Stuyding BE in Computer Science and Engineering From Dayananda Sagar Academy of Technology and Management,Bengaluru</h3>
+<h3 align="center">A passionate developer Studying BE in Computer Science and Engineering From Dayananda Sagar Academy of Technology and Management,Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeshkedlaya05&label=Profile%20views&color=0e75b6&style=flat" alt="adeshkedlaya05" /> </p>
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/adesh kedlaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adesh kedlaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
