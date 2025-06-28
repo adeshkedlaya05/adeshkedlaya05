@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesh V Kedlaya</h1>
-- 📫 How to reach me  **adeshkedlaya03@gmail.com**
+📫 How to reach me: <a href="mailto:adeshkedlaya03@gmail.com" style="text-decoration: none; color: inherit;">adeshkedlaya03@gmail.com</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
